@@ -1,11 +1,8 @@
-<!--
-  README for Kiwy — Cybersecurity & Pentesting
-  Modern, clean, professional
--->
+
 
 <div align="center">
 
-# Kiwy — Cybersecurity & Pentesting Specialist
+# Kiwy — Cybersecurity & Pentesting 
 
 ---
 
@@ -70,8 +67,8 @@ Driven by curiosity and precision, I specialize in identifying vulnerabilities, 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeroxkiwy&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="Kiwy's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroxkiwy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiwy64&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" alt="Kiwy's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwy64&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -86,7 +83,7 @@ Driven by curiosity and precision, I specialize in identifying vulnerabilities, 
 
 ### Vibes & Lifestyle
 
-Anime enthusiast | Phonk & Chill music | Passionate about cybersecurity & hacking culture
+Anime enthusiast | Nostalgic Music | Passionate about cybersecurity & hacking culture
 
 ---
 
@@ -98,6 +95,6 @@ Anime enthusiast | Phonk & Chill music | Passionate about cybersecurity & hackin
 
 ---
 
-*Made with passion and code by Kiwy*  
+*kiwy :(*  
 
 </div>
