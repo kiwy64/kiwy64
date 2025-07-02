@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a 16-year-old male student in computer science and cybersecurity.
+Hi! I'm a 16-year-old male student in computer science and cybersecurity. i learn basic language, linux lover, anime lover. 
 
 
 ## 🌐 Socials:
